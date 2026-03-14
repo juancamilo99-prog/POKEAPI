@@ -50,9 +50,25 @@ Sprites
 
 Posteriormente se muestran en la interfaz JavaFX.
 
-📂 Estructura del proyecto src ├── main │ ├── java │ │ └── org.example.pokeapi │ │ ├── Main.java │ │ ├── MainController.java │ │ ├── Controller.java │ │ ├── model │ │ │ ├── Atributos.java │ │ │ ├── Stat.java │ │ │ └── Sprites.java │ │ │ └── resources │ └── main.fxml 🔎 Ejemplo de uso
+src
+ ├── main
+ │   ├── java
+ │   │    └── org.example.pokeapi
+ │   │          ├── Main.java
+ │   │          ├── MainController.java
+ │   │          ├── Controller.java
+ │   │          ├── model
+ │   │          │     ├── Atributos.java
+ │   │          │     ├── Stat.java
+ │   │          │     └── Sprites.java
+ │   │
+ │   └── resources
+ │         └── main.fxml
 
-1️⃣ Ejecutar la aplicación 2️⃣ Introducir el nombre o ID del Pokémon 3️⃣ Pulsar buscar 4️⃣ Se mostrarán los datos del Pokémon
+1️⃣ Ejecutar la aplicación 
+2️⃣ Introducir el nombre del Pokémon 
+3️⃣ Pulsar buscar 
+4️⃣ Se mostrarán los datos del Pokémon
 
 ⚠ Manejo de errores
 
