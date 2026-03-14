@@ -22,7 +22,10 @@ API utilizada: https://pokeapi.co/
 
 📸 Funcionalidades
 
-✔ Buscar Pokémon por nombre ✔ Mostrar nombre del Pokémon ✔ Mostrar altura ✔ Mostrar estadísticas principales
+✔ Buscar Pokémon por nombre 
+✔ Mostrar nombre del Pokémon 
+✔ Mostrar altura 
+✔ Mostrar estadísticas principales
 
 HP
 
@@ -30,7 +33,8 @@ Attack
 
 Defense
 
-✔ Mostrar sprite (imagen) del Pokémon ✔ Manejo básico de errores cuando el Pokémon no existe
+✔ Mostrar sprite (imagen) del Pokémon 
+✔ Manejo básico de errores cuando el Pokémon no existe
 
 🧠 Funcionamiento
 
@@ -70,7 +74,7 @@ src
 3️⃣ Pulsar buscar 
 4️⃣ Se mostrarán los datos del Pokémon
 
-⚠ Manejo de errores
+:warning: Manejo de errores
 
 Si el Pokémon no existe o hay un error en la petición, la aplicación muestra:
 
