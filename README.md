@@ -2,7 +2,7 @@
 
 Aplicación de escritorio desarrollada en JavaFX que consume la API pública de Pokémon para mostrar información de distintos Pokémon en una interfaz gráfica sencilla.
 
-La aplicación permite buscar Pokémon por nombre o ID y visualizar algunos de sus datos principales obtenidos desde la API.
+La aplicación permite buscar Pokémon por nombre y visualizar algunos de sus datos principales obtenidos desde la API.
 
 🚀 Tecnologías utilizadas
 
@@ -22,7 +22,7 @@ API utilizada: https://pokeapi.co/
 
 📸 Funcionalidades
 
-✔ Buscar Pokémon por nombre o ID ✔ Mostrar nombre del Pokémon ✔ Mostrar altura ✔ Mostrar estadísticas principales
+✔ Buscar Pokémon por nombre ✔ Mostrar nombre del Pokémon ✔ Mostrar altura ✔ Mostrar estadísticas principales
 
 HP
 
@@ -66,25 +66,25 @@ y limpia los datos de la interfaz.
 
 Clonar el repositorio:
 
-git clone https://github.com/tuusuario/pokedex-javafx.git
+1. git clone https://github.com/tuusuario/pokedex-javafx.git
 
-Abrir el proyecto en IntelliJ IDEA o cualquier IDE compatible con Maven.
+2. Abrir el proyecto en IntelliJ IDEA o cualquier IDE compatible con Maven.
 
-Ejecutar la clase:
+3. Ejecutar la clase:
 
-Main.java 💡 Mejoras futuras
+4. Main.java 💡 Mejoras futuras
 
-Mostrar tipos de Pokémon
+5. Mostrar tipos de Pokémon
 
-Mostrar más estadísticas
+6. Mostrar más estadísticas
 
-Historial de búsquedas
+7. Historial de búsquedas
 
-Autocompletado de Pokémon
+8. Autocompletado de Pokémon
 
-Mostrar habilidades
+9. Mostrar habilidades
 
-Mejor diseño UI
+10. Mejor diseño UI
 
 📚 Recursos
 
@@ -94,14 +94,6 @@ https://openjfx.io/
 
 https://github.com/google/gson
 
-👩‍💻 Autor
+:man: Autor
 
-Proyecto desarrollado por Nerea como práctica de consumo de APIs con Java y JavaFX.
-
-💡 Si quieres, también puedo hacerte:
-
-un README con diseño brutal para GitHub (con badges, GIF y capturas)
-
-un GIF de demostración de la app
-
-una portada visual para tu repositorio (queda mucho más profesional).
+Proyecto desarrollado por Camilo como práctica de consumo de APIs con Java y JavaFX.
