@@ -2,7 +2,7 @@
 
 Aplicación de escritorio desarrollada en JavaFX que consume la API pública de Pokémon para mostrar información de distintos Pokémon en una interfaz gráfica sencilla.
 
-La aplicación permite buscar Pokémon por nombre o ID y visualizar algunos de sus datos principales obtenidos desde la API.
+La aplicación permite buscar Pokémon por nombre y visualizar algunos de sus datos principales obtenidos desde la API.
 
 🚀 Tecnologías utilizadas
 
@@ -72,7 +72,7 @@ Los datos recibidos se transforman en clases Java como:
 🔎 Ejemplo de uso
 
     1️⃣ Ejecutar la aplicación
-    2️⃣ Introducir el nombre o ID del Pokémon
+    2️⃣ Introducir el nombre del Pokémon
     3️⃣ Pulsar buscar
     4️⃣ Se mostrarán los datos del Pokémon
     
