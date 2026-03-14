@@ -22,10 +22,10 @@ API utilizada: https://pokeapi.co/
 
 📸 Funcionalidades
 
-✔ Buscar Pokémon por nombre 
-✔ Mostrar nombre del Pokémon 
-✔ Mostrar altura 
-✔ Mostrar estadísticas principales
+ ✔ Buscar Pokémon por nombr
+ ✔ Mostrar nombre del Pokémon 
+ ✔ Mostrar altura 
+ ✔ Mostrar estadísticas principales
 
 HP
 
